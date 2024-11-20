@@ -22,4 +22,4 @@ Contribute: Crafting solutions to enhance the security landscape.
 
 
 🌐 Connect with Me
-🔗 LinkedIn
+🔗 [LinkedIn](https://www.linkedin.com/in/vikram-lakshmanan-b6162116b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BMvCOW%2FpBSKGmn9nWMIztsw%3D%3D)
