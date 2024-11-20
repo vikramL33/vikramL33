@@ -1,16 +1,25 @@
-## Hi there 👋
+Hi there 👋
+I'm Vikram Lakshmanan
+🔒 Cybersecurity Specialist | 🛡️ Red Team Operator | 🧠 Security Researcher | 💻 Threat Hunter
 
-<!--
-**vikramL33/vikramL33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 About Me
+🛠️ Red Team Enthusiast: Simulating real-world cyber threats to strengthen defenses.
+🚀 Vulnerability Hunter: Finding and fixing security loopholes to protect critical systems.
+📖 Continuous Learner: Always diving into new tools, techniques, and security domains.
+🧪 Innovator: Researching cutting-edge IoT attack vectors and mitigation strategies.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 What I Do
+Break: Simulating adversary behaviors to test organizational defenses.
+Build: Designing secure network architectures and frameworks.
+Teach: Sharing knowledge on vulnerability assessments and threat hunting.
+Contribute: Crafting solutions to enhance the security landscape.
+
+
+🛠️ Certifications
+🏅 CEH (Certified Ethical Hacker) 
+🏅 CCNA (Cisco Certified Network Associate)
+
+
+🌐 Connect with Me
+🔗 LinkedIn
