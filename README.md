@@ -13,10 +13,10 @@
 
 
 **💡 What I Do**
-Break: Simulating adversary behaviors to test organizational defenses.
-Build: Designing secure network architectures and frameworks.
-Teach: Sharing knowledge on vulnerability assessments and threat hunting.
-Contribute: Crafting solutions to enhance the security landscape.
+**Break**: Simulating adversary behaviors to test organizational defenses.
+**Build**: Designing secure network architectures and frameworks.
+**Teach**: Sharing knowledge on vulnerability assessments and threat hunting.
+**Contribute**: Crafting solutions to enhance the security landscape.
 
 
 **🛠️ Certifications
